@@ -4,4 +4,45 @@
     <active>true</active>
     <description>test1123</description>
     <label>KPREc1</label>
+    <picklistValues>
+        <picklist>PC1__c</picklist>
+        <values>
+            <fullName>test1</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>pc2__c</picklist>
+        <values>
+            <fullName>test11</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>test22</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>test33</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>pc3__c</picklist>
+        <values>
+            <fullName>test</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>test2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>test3</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>test4</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
 </RecordType>
