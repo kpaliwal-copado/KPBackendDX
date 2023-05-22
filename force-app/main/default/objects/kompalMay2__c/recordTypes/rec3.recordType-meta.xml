@@ -3,23 +3,4 @@
     <fullName>rec3</fullName>
     <active>true</active>
     <label>rec3</label>
-    <picklistValues>
-        <picklist>pc4__c</picklist>
-        <values>
-            <fullName>t1</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>t2</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>t3</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>t4Add</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
 </RecordType>
