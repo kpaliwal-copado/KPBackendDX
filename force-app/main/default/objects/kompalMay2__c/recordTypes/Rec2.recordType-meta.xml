@@ -7,7 +7,7 @@
         <picklist>pc3__c</picklist>
         <values>
             <fullName>test</fullName>
-            <default>true</default>
+            <default>false</default>
         </values>
         <values>
             <fullName>test2</fullName>
@@ -19,6 +19,10 @@
         </values>
         <values>
             <fullName>test4</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>test5</fullName>
             <default>false</default>
         </values>
     </picklistValues>

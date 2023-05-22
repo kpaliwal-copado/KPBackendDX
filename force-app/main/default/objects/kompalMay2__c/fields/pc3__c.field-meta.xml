@@ -30,6 +30,11 @@
                 <default>false</default>
                 <label>test4</label>
             </value>
+            <value>
+                <fullName>test5</fullName>
+                <default>false</default>
+                <label>test5</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
