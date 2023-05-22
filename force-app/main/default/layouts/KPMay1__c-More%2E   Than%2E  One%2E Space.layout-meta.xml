@@ -33,7 +33,7 @@
     <layoutSections>
         <customLabel>true</customLabel>
         <detailHeading>true</detailHeading>
-        <editHeading>true</editHeading>
+        <editHeading>False-Dummy2</editHeading>
         <label>Custom Links</label>
         <layoutColumns>
             <layoutItems>
