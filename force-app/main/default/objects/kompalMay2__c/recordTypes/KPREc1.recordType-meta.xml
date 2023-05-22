@@ -4,15 +4,4 @@
     <active>true</active>
     <description>test1123</description>
     <label>KPREc1</label>
-    <picklistValues>
-        <picklist>PC1__c</picklist>
-        <values>
-            <fullName>test2</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>test3</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
 </RecordType>
