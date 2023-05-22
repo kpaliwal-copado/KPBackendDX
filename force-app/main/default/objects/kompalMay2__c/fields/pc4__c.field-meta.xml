@@ -25,6 +25,11 @@
                 <default>false</default>
                 <label>t3</label>
             </value>
+            <value>
+                <fullName>t4Add</fullName>
+                <default>false</default>
+                <label>t4Add</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
