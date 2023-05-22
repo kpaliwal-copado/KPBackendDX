@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>KPREc1</fullName>
+    <fullName>Rec2</fullName>
     <active>true</active>
-    <description>test1123</description>
-    <label>KPREc1</label>
+    <label>Rec2</label>
     <picklistValues>
         <picklist>PC1__c</picklist>
         <values>
             <fullName>test1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>test2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>test3</fullName>
             <default>false</default>
         </values>
     </picklistValues>
