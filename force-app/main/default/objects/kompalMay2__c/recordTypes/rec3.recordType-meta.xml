@@ -17,5 +17,9 @@
             <fullName>t3</fullName>
             <default>false</default>
         </values>
+        <values>
+            <fullName>t4Add</fullName>
+            <default>false</default>
+        </values>
     </picklistValues>
 </RecordType>
