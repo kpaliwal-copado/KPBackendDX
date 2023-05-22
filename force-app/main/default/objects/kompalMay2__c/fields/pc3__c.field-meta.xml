@@ -31,9 +31,9 @@
                 <label>test4</label>
             </value>
             <value>
-                <fullName>test5</fullName>
+                <fullName>test6</fullName>
                 <default>false</default>
-                <label>test5</label>
+                <label>test6</label>
             </value>
         </valueSetDefinition>
     </valueSet>
