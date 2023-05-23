@@ -4,17 +4,17 @@
     <active>true</active>
     <label>rec3</label>
     <picklistValues>
-        <picklist>pc4__c</picklist>
+        <picklist>pc5__c</picklist>
         <values>
-            <fullName>t1</fullName>
+            <fullName>pc51</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>t2</fullName>
+            <fullName>pc52</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>t3</fullName>
+            <fullName>pc53</fullName>
             <default>false</default>
         </values>
     </picklistValues>
