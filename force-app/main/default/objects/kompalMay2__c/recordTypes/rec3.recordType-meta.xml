@@ -3,4 +3,23 @@
     <fullName>rec3</fullName>
     <active>true</active>
     <label>rec3</label>
+    <picklistValues>
+        <picklist>pc5__c</picklist>
+        <values>
+            <fullName>pc111</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>pc222</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>pc333</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>pc444</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
 </RecordType>
