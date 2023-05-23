@@ -13,9 +13,5 @@
             <fullName>pc52</fullName>
             <default>false</default>
         </values>
-        <values>
-            <fullName>pc53</fullName>
-            <default>false</default>
-        </values>
     </picklistValues>
 </RecordType>

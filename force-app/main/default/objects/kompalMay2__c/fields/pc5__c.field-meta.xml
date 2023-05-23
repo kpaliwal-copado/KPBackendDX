@@ -20,11 +20,6 @@
                 <default>false</default>
                 <label>pc52</label>
             </value>
-            <value>
-                <fullName>pc53</fullName>
-                <default>false</default>
-                <label>pc53</label>
-            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
