@@ -6,11 +6,15 @@
     <picklistValues>
         <picklist>pc5__c</picklist>
         <values>
-            <fullName>pc51</fullName>
+            <fullName>pc111</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>pc52</fullName>
+            <fullName>pc222</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>pc333</fullName>
             <default>false</default>
         </values>
     </picklistValues>
