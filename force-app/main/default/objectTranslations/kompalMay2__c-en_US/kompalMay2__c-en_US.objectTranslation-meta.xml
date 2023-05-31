@@ -22,8 +22,4 @@
         <name>rec3</name>
     </recordTypes>
     <startsWith>Consonant</startsWith>
-    <validationRules>
-        <errorMessage>kompal-tmsg</errorMessage>
-        <name>KompalR1</name>
-    </validationRules>
 </CustomObjectTranslation>
