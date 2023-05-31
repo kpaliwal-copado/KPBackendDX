@@ -16,11 +16,6 @@
                 <label>test</label>
             </value>
             <value>
-                <fullName>test2</fullName>
-                <default>false</default>
-                <label>test2</label>
-            </value>
-            <value>
                 <fullName>test3</fullName>
                 <default>false</default>
                 <label>test3</label>
