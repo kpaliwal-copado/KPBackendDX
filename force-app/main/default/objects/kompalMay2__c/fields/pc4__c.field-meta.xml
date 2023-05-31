@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>pc3__c</fullName>
+    <fullName>pc4__c</fullName>
     <externalId>false</externalId>
-    <label>pc3</label>
+    <label>pc4</label>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
@@ -11,24 +11,24 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>test</fullName>
-                <default>true</default>
-                <label>test</label>
+                <fullName>t1</fullName>
+                <default>false</default>
+                <label>t1</label>
             </value>
             <value>
-                <fullName>test3</fullName>
+                <fullName>t2</fullName>
                 <default>false</default>
-                <label>test3</label>
+                <label>t2</label>
             </value>
             <value>
-                <fullName>test4</fullName>
+                <fullName>t3</fullName>
                 <default>false</default>
-                <label>test4</label>
+                <label>t3</label>
             </value>
             <value>
-                <fullName>test6</fullName>
+                <fullName>t4Add</fullName>
                 <default>false</default>
-                <label>test6</label>
+                <label>t4Add</label>
             </value>
         </valueSetDefinition>
     </valueSet>
